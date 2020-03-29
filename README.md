@@ -1,1 +1,1 @@
-# bucky-os-kernel
+# bucky-os
